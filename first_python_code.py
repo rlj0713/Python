@@ -1,3 +1,5 @@
 print('hello world')
 
-print(5%2)
+my_dog = "spot"
+
+print(my_dog[1:3])
